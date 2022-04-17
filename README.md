@@ -12,3 +12,6 @@
 🟢 Discord OAuth2 as a login system.
 
 🟢 allows users to split resources throughout multiple servers
+
+# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Disclaimer
+This project uder development We are not responsible for any damages.
